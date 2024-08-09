@@ -13,7 +13,7 @@ def get_pokemon(url):
     pokemon = resp.json()
 
     return pokemon
-
+4
 def get_pokemons():
     rand_list=[]
     for i in range(5):
